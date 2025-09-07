@@ -51,5 +51,4 @@ This project simulates a **smart home setup** in Cisco Packet Tracer where:
 
 ---
 
-## 👨‍💻 Author
-Developed as part of an IoT and Networking assignment using Cisco Packet Tracer.
+
